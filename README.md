@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-< ![prework](https://user-images.githubusercontent.com/39765452/107138585-35739700-6950-11eb-999a-1f3a1755de3f.gif)  />
+ ![prework](https://user-images.githubusercontent.com/39765452/107138585-35739700-6950-11eb-999a-1f3a1755de3f.gif)  
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
